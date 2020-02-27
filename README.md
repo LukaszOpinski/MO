@@ -40,8 +40,7 @@ Punkty będzie można uzyskać:
 Dodatkowe punkty mogą zostać doliczone za wykonywanie zadań zleconych w trakcie zajęć.
 Suma punktów po doliczeniu punktów dodatkowych nie może przekroczyć 100.
 
-Ocena z ćwiczeń, % punktów
-| Od | Do |  |
+| Od % | Do % |Ocena z ćwiczeń  |
 | ---| ---| --- |
 | 0  | 49 | 2.0 |
 | 50 | 59 | 3.0 |
