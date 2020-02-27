@@ -36,6 +36,7 @@ Zaliczenie ćwiczeń jest niezbędne do bycia dopuszczonym do egzaminu.
 
 Punkty będzie można uzyskać:
 0-100% - kolokwium na zaliczenie ćwiczeń
+
 Dodatkowe punkty mogą zostać doliczone za wykonywanie zadań zleconych w trakcie zajęć.
 Suma punktów po doliczeniu punktów dodatkowych nie może przekroczyć 100.
 
