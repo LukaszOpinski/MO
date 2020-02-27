@@ -11,11 +11,11 @@ Mój adres email: lopins@sgh.waw.pl
 | Data | Temat |
 | --- | --- |
 | 28-02-20 | Wprowadzenie do R.
-| 13-03-20 | Optymalizacja analityczna. FOC i SOC dla optymalizacji bez ograniczeń, optymalizacji z ograniczeniami równościowymi oraz ograniczeniami nierównościowymi (warunki KKT).
-| 27-03-20 | Optymalizacja numeryczna 1. Metody optymalizacji funkcji jednej zmiennej 
-| 17-04-20 | Optymalizacja numeryczna 2. Metody optymalizacji gradientowe optymalizacji
-| 08-05-20 | Optymalizacja numeryczna 3. Metody optymalizacji wyższych rzędów
-| 22-05-20 | Optymalizacja numeryczna 4. Metoda symplex
+| 13-03-20 | FOC i SOC dla optymalizacji bez ograniczeń, z ograniczeniami równościowymi oraz nierównościowymi
+| 27-03-20 | Metody optymalizacji funkcji jednej zmiennej 
+| 17-04-20 | Metody optymalizacji gradientowe optymalizacji
+| 08-05-20 | Metody optymalizacji wyższych rzędów
+| 22-05-20 | Metoda symplex
 | 05-06-20 | Zaliczenie ćwiczeń - kolokwium
 
 
