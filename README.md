@@ -13,7 +13,7 @@ Mój adres email: lopins@sgh.waw.pl
 | 28-02-20 | Wprowadzenie do R.
 | 13-03-20 | FOC i SOC dla optymalizacji bez ograniczeń, z ograniczeniami równościowymi oraz nierównościowymi
 | 27-03-20 | Metody optymalizacji funkcji jednej zmiennej 
-| 17-04-20 | Metody optymalizacji gradientowe optymalizacji
+| 17-04-20 | Metody optymalizacji gradientowe
 | 08-05-20 | Metody optymalizacji wyższych rzędów
 | 22-05-20 | Metoda symplex
 | 05-06-20 | Zaliczenie ćwiczeń - kolokwium
