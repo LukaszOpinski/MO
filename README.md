@@ -22,8 +22,11 @@ Mój adres email: lopins@sgh.waw.pl
 ### Podręczniki
 
 -B. Kamiński, M. Zawisza, "Receptury w R", Oficyna Wydawnicza SGH, 2012,
+
 -M. Rubaszek, "Modelowanie polskiej gospodarki z pakietem R", Oficyna Wydawnicza SGH, 2012,
+
 -E. Chong, S. Żak, "An Introduction to Optimization", Wiley 2013
+
 -K. Sydseater, P. Hammond, A. Seierstad, A. Strom, "Further Mathematics for Economic Analysis", Prentice Hall, 2nd edition, 2008,
 
 
@@ -36,9 +39,7 @@ Punkty będzie można uzyskać:
 Dodatkowe punkty mogą zostać doliczone za wykonywanie zadań zleconych w trakcie zajęć.
 Suma punktów po doliczeniu punktów dodatkowych nie może przekroczyć 100.
 
-Ocena z ćwiczeń:
-
-% punktów
+Ocena z ćwiczeń, % punktów
 | Od | Do |  |
 | ---| ---| --- |
 | 0  | 49 | 2.0 |
