@@ -29,17 +29,16 @@ Mój adres email: lopins@sgh.waw.pl
 
 ### Ocena z zajęć
 
-Zaliczenie ćwiczeń niezbędne jest do bycia dopuszczonym do egzaminu.
+Zaliczenie ćwiczeń jest niezbędne do bycia dopuszczonym do egzaminu.
 
 Punkty będzie można uzyskać:
-
-0-100 pkt - kolokwium na zaliczenie ćwiczeń
+0-100% - kolokwium na zaliczenie ćwiczeń
 Dodatkowe punkty mogą zostać doliczone za wykonywanie zadań zleconych w trakcie zajęć.
 Suma punktów po doliczeniu punktów dodatkowych nie może przekroczyć 100.
 
 Ocena z ćwiczeń:
 
-Ilość punktów
+% punktów
 | Od | Do |  |
 | ---| ---| --- |
 | 0  | 49 | 2.0 |
