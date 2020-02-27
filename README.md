@@ -21,10 +21,10 @@ Mój adres email: lopins@sgh.waw.pl
 
 ### Podręczniki
 
-*B. Kamiński, M. Zawisza, "Receptury w R", Oficyna Wydawnicza SGH, 2012,
-*M. Rubaszek, "Modelowanie polskiej gospodarki z pakietem R", Oficyna Wydawnicza SGH, 2012,
-*E. Chong, S. Żak, "An Introduction to Optimization", Wiley 2013
-*K. Sydseater, P. Hammond, A. Seierstad, A. Strom, "Further Mathematics for Economic Analysis", Prentice Hall, 2nd edition, 2008,
+-B. Kamiński, M. Zawisza, "Receptury w R", Oficyna Wydawnicza SGH, 2012,
+-M. Rubaszek, "Modelowanie polskiej gospodarki z pakietem R", Oficyna Wydawnicza SGH, 2012,
+-E. Chong, S. Żak, "An Introduction to Optimization", Wiley 2013
+-K. Sydseater, P. Hammond, A. Seierstad, A. Strom, "Further Mathematics for Economic Analysis", Prentice Hall, 2nd edition, 2008,
 
 
 ### Ocena z zajęć
