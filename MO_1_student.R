@@ -4,14 +4,14 @@
 help("plot")
 ?plot
 
-#Wyszukanie s≥owa w pomocy
+#Wyszukanie s≈Çowa w pomocy
 help.search('linear model')
 ??'linear model'
 
 #Wyszukiwanie pomocy na stronie WWW
 RSiteSearch('linear model') 
 
-#instalowanie/≥adowanie biblioteki
+#instalowanie/≈Çadowanie biblioteki
 install.packages("ggplot2")
 library('lubridate')
 
@@ -32,7 +32,7 @@ liczba3
 
 ls() #lista obiektow w pamieci
 rm(liczba) #usuniecie obiektu z pamieci
-rm(list=ls()) #usuwanie wszystkich objektÛw
+rm(list=ls()) #usuwanie wszystkich objekt√≥w
 
 #################################################
 #wektory
@@ -247,7 +247,7 @@ c.to.f(100)
 #Oblicz sume liczb naturalnych 0-100
 
 #Zadanie 2
-#Zmodyfikuj poniøszy kod uwzgledniajac 4 progi mandatu 
+#Zmodyfikuj poni≈ºszy kod uwzgledniajac 4 progi mandatu 
 #(wykorzystaj warunek else if):
 #predkosc <= 50, mandat=0
 #50<predkosc<=70, mandat=100
@@ -259,7 +259,7 @@ if(predkosc>50) {
     mandat=0}
 cat("mandat:",mandat)
 
-#Zadanie 3 - Liczby Fibonacciego (kolejna liczba jest sumπ dwÛch poprzednich)
+#Zadanie 3 - Liczby Fibonacciego (kolejna liczba jest sum≈° dw√≥ch poprzednich)
 #Napisz funkcje ktora obliczy wartosc n-tej liczby Fibonacciego
 
 #Zadanie 4
@@ -270,4 +270,64 @@ cat("mandat:",mandat)
 #liczb naturalnych oraz kwadratem sumy 100 liczb naturalnych.
 
 # Zadanie 6*
-#Napisz funkcjÍ ktÛra wypisuje wszystkie liczby pierwsze w zakresie od 0 do n
+#Napisz funkcjƒô kt√≥ra wypisuje wszystkie liczby pierwsze w zakresie od 0 do n
+
+#ROZWIAZANIA
+#1
+suma=0
+for (i in 0:100) {
+  suma=suma+i
+}
+print(suma)
+#2
+
+predkosc=100
+if(predkosc<=50) {
+  mandat=0
+} else if (predkosc>50 && predkosc<=70) {
+  mandat=100
+} else if (predkosc>70 && predkosc<=90) {
+  mandat=200
+} else {
+  mandat=300
+}
+cat("mandat:",mandat)
+
+wartosc.mandatu<-function(predkosc){
+  if(predkosc>90) {
+    mandat<-300} else if(predkosc>70){
+    mandat<-200} else if(predkosc>50){
+    mandat<-100} else {
+      mandat=0}
+  cat("mandat:",mandat)
+}
+wartosc.mandatu(220)
+
+#4
+suma=0
+for (i in 1:1000){
+  if(i%%3|i%%5){
+    suma=suma+i
+  }
+}
+suma
+#5
+sum_of_squares=0
+for (i in 1:100){
+  sum_of_squares<-sum_of_squares+i^2
+}
+sum_of_squares
+
+sum=0
+for (i in 1:100){
+  sum<-sum+i
+}
+square_of_sum<-sum^2
+
+result<-sum_of_squares-square_of_sum
+result
+
+#alternatywnie
+sum((1:100)^2)-sum(1:100)^2
+
+#Praca domowa dla chƒôtnych: rozwiƒÖ≈º zadanie 3 oraz 6
