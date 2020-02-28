@@ -34,17 +34,10 @@ Mój adres email: lopins@sgh.waw.pl
 
 Zaliczenie ćwiczeń jest niezbędne do bycia dopuszczonym do egzaminu.
 
-Punkty będzie można uzyskać:
-0-100% - kolokwium na zaliczenie ćwiczeń
-
+Zaliczenie zależne jest od wyniku kolokwium na ostatnich zajęciach.
 Dodatkowe punkty mogą zostać doliczone za wykonywanie zadań zleconych w trakcie zajęć.
-Suma punktów po doliczeniu punktów dodatkowych nie może przekroczyć 100.
 
-| Od % | Do % |Ocena z ćwiczeń  |
+| Od % | Do % |Wynik ćwiczeń |
 | ---| ---| --- |
-| 0  | 49 | 2.0 |
-| 50 | 59 | 3.0 |
-| 60 | 69 | 3.5 |
-| 70 | 79 | 4.0 |
-| 80 | 89 | 4.5 |
-| 90 | 100| 5.0 |
+| 0  | 49 | niezaliczone |
+| 50 | 100 | zaliczone |
