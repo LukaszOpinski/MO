@@ -2,7 +2,7 @@ Metody Optymalizacji - ćwiczenia
 
 ### Informacje organizacyjne
 
-Zajęcia odbywają się w sali G-116
+Zajęcia odbywają się w piątki w sali G-116, w godzinach 17:10-18:50
 
 Mój adres email: lopins@sgh.waw.pl
 
