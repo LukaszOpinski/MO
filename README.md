@@ -32,7 +32,7 @@ Mój adres email: lopins@sgh.waw.pl
 
 ### Ocena z zajęć
 
-Zaliczenie ćwiczeń jest niezbędne do bycia dopuszczonym do egzaminu.
+Zaliczenie ćwiczeń jest niezbędne do bycia dopuszczonym do egzaminu w pierwszym terminie.
 
 Zaliczenie zależne jest od wyniku kolokwium na ostatnich zajęciach.
 Dodatkowe punkty mogą zostać doliczone za wykonywanie zadań zleconych w trakcie zajęć.
