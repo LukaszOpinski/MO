@@ -1,3 +1,5 @@
+UPDATE: Z POWODU KORONAWIRUSA ZAJĘCIA W DNIU 13.03.2020 ZOSTAJĄ ODWOŁANE.
+
 Metody Optymalizacji - ćwiczenia
 
 ### Informacje organizacyjne
