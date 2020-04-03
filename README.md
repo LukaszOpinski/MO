@@ -1,4 +1,4 @@
-UPDATE: ZAJĘCIA W DNIU 27.03.2020 ODBĘDĄ SIĘ W FORMIE ZDALNEJ. ROZMOWA ODBĘDZIE SIĘ POPRZEZ APLIKACJĘ MICROSOFT TEAMS.
+UPDATE: ZAJĘCIA W DNIU 17.04.2020 ODBĘDĄ SIĘ W FORMIE ZDALNEJ. ROZMOWA ODBĘDZIE SIĘ POPRZEZ APLIKACJĘ MICROSOFT TEAMS.
 
 Metody Optymalizacji - ćwiczenia
 
@@ -13,11 +13,11 @@ Mój adres email: lopins@sgh.waw.pl
 | Data | Temat |
 | --- | --- |
 | 28-02-20 | Wprowadzenie do R.
-| 13-03-20 | FOC i SOC dla optymalizacji bez ograniczeń, z ograniczeniami równościowymi oraz nierównościowymi
-| 27-03-20 | Metody optymalizacji funkcji jednej zmiennej 
-| 17-04-20 | Metody optymalizacji gradientowe
-| 08-05-20 | Metody optymalizacji wyższych rzędów
-| 22-05-20 | Metoda symplex
+| 13-03-20 | Zajęcia odwołane
+| 27-03-20 | FOC i SOC dla optymalizacji bez ograniczeń, z ograniczeniami równościowymi oraz nierównościowymi
+| 17-04-20 | Metody optymalizacji funkcji jednej zmiennej 
+| 08-05-20 | Metody optymalizacji gradientowe
+| 22-05-20 | Metody optymalizacji wyższych rzędów
 | 05-06-20 | Zaliczenie ćwiczeń - kolokwium
 
 
