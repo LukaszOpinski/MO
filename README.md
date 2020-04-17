@@ -24,7 +24,7 @@ Mój adres email: lopins@sgh.waw.pl
 
 | Numer albumu | Praca domowa 1 | Praca domowa 2 |
 | --- | --- | --- |
-| b.d. | 0|1|
+| 82058 | 0|1|
 | 82148 | 2|2|
 | 76572 | 0|2|
 | 76489 | 2|1|
