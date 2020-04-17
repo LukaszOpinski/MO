@@ -20,6 +20,19 @@ Mój adres email: lopins@sgh.waw.pl
 | 22-05-20 | Metody optymalizacji wyższych rzędów
 | 05-06-20 | Zaliczenie ćwiczeń - kolokwium
 
+### Punkty za prace domowe
+
+| Numer albumu | Praca domowa 1 | Praca domowa 2 |
+| --- | --- | --- |
+| b.d. | 0|1|
+| 82148 | 2|2|
+| 76572 | 0|2|
+| 76489 | 2|1|
+| 76736 | 2|2|
+| 82797 | 2|2|
+| 82282 | 0|2|
+| 82257 | 2|0|
+| 77401 | 2|0|
 
 ### Podręczniki
 
