@@ -1,5 +1,21 @@
 UPDATE: ZAJĘCIA W DNIU 08.05.2020 ODBĘDĄ SIĘ W FORMIE ZDALNEJ. ROZMOWA ODBĘDZIE SIĘ POPRZEZ APLIKACJĘ MICROSOFT TEAMS.
 
+UPDATE: W ZWIĄZKU Z KONIECZNĄ ZMIANĄ METODY PROWADZENIA ZAJĘĆ, ZALICZENIE ĆWICZEŃ ZALEŻY OD ROZWIĄZANYCH PRAC DOMOWYCH.
+
+Dodatkowe informacje dotyczące zaliczenia: 
+Zaliczenie ćwiczeń jest niezbędne do bycia dopuszczonym do egzaminu w pierwszym terminie.
+
+Prace domowe można wysyłać do 05.06.2020, na mail lopins@sgh.waw.pl
+Prace można wysyłać w jednym pliku, mailu, zipie, lub w oddzielnych plikach/mailach. (Najlepiej w jednym mailu).
+Nie ma deadline'u na prace domowe innego niż 05.06.2020. Przykładowo, pierwszą pracę domową można wysłać nawet 05.06.2020 o 23:59. 
+W mailu proszę o wpisanie numeru albumu
+
+| Od pkt | Do pkt |Wynik ćwiczeń |
+| ---| ---| --- |
+| 0  | 5 | niezaliczone |
+| 6 | 10 | zaliczone |
+
+
 Metody Optymalizacji - ćwiczenia
 
 ### Informacje organizacyjne
@@ -44,15 +60,3 @@ Mój adres email: lopins@sgh.waw.pl
 
 -K. Sydseater, P. Hammond, A. Seierstad, A. Strom, "Further Mathematics for Economic Analysis", Prentice Hall, 2nd edition, 2008,
 
-
-### Ocena z zajęć
-
-Zaliczenie ćwiczeń jest niezbędne do bycia dopuszczonym do egzaminu w pierwszym terminie.
-
-Zaliczenie zależne jest od wyniku kolokwium na ostatnich zajęciach.
-Dodatkowe punkty mogą zostać doliczone za wykonywanie zadań zleconych w trakcie zajęć.
-
-| Od % | Do % |Wynik ćwiczeń |
-| ---| ---| --- |
-| 0  | 49 | niezaliczone |
-| 50 | 100 | zaliczone |
