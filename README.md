@@ -1,4 +1,4 @@
-UPDATE: ZAJĘCIA W DNIU 17.04.2020 ODBĘDĄ SIĘ W FORMIE ZDALNEJ. ROZMOWA ODBĘDZIE SIĘ POPRZEZ APLIKACJĘ MICROSOFT TEAMS.
+UPDATE: ZAJĘCIA W DNIU 08.05.2020 ODBĘDĄ SIĘ W FORMIE ZDALNEJ. ROZMOWA ODBĘDZIE SIĘ POPRZEZ APLIKACJĘ MICROSOFT TEAMS.
 
 Metody Optymalizacji - ćwiczenia
 
@@ -23,16 +23,16 @@ Mój adres email: lopins@sgh.waw.pl
 ### Punkty za prace domowe
 
 | Numer albumu | Praca domowa 1 | Praca domowa 2 |
-| --- | --- | --- |
-| 82058 | 0|1|
-| 82148 | 2|2|
-| 76572 | 0|2|
-| 76489 | 2|1|
-| 76736 | 2|2|
-| 82797 | 2|2|
-| 82282 | 0|2|
-| 82257 | 2|0|
-| 77401 | 2|0|
+| --- | --- | --- |--- |
+| 82058 | 0|2|0|
+| 82148 | 2|2|0|
+| 76572 | 0|2|0|
+| 76489 | 2|1|0|
+| 76736 | 2|2|2|
+| 82797 | 2|2|2|
+| 82282 | 0|2|0|
+| 82257 | 2|0|0|
+| 77401 | 2|0|0|
 
 ### Podręczniki
 
