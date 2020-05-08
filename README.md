@@ -22,7 +22,7 @@ Mój adres email: lopins@sgh.waw.pl
 
 ### Punkty za prace domowe
 
-| Numer albumu | Praca domowa 1 | Praca domowa 2 |
+| Numer albumu | Praca domowa 1 | Praca domowa 2 | Praca domowa 3 |
 | --- | --- | --- |--- |
 | 82058 | 0|2|0|
 | 82148 | 2|2|0|
