@@ -1,4 +1,4 @@
-UPDATE: ZAJĘCIA W DNIU 08.05.2020 ODBĘDĄ SIĘ W FORMIE ZDALNEJ. ROZMOWA ODBĘDZIE SIĘ POPRZEZ APLIKACJĘ MICROSOFT TEAMS.
+UPDATE: ZAJĘCIA W DNIU 22.05.2020 ODBĘDĄ SIĘ W FORMIE ZDALNEJ. ROZMOWA ODBĘDZIE SIĘ POPRZEZ APLIKACJĘ MICROSOFT TEAMS.
 
 UPDATE: W ZWIĄZKU Z KONIECZNĄ ZMIANĄ METODY PROWADZENIA ZAJĘĆ, ZALICZENIE ĆWICZEŃ ZALEŻY OD ROZWIĄZANYCH PRAC DOMOWYCH.
 
@@ -38,17 +38,19 @@ Mój adres email: lopins@sgh.waw.pl
 
 ### Punkty za prace domowe
 
-| Numer albumu | Praca domowa 1 | Praca domowa 2 | Praca domowa 3 |Praca domowa 4 |
-| --- | --- | --- |--- |--- |
-| 82058 | 0|2|0|0|
-| 82148 | 2|2|0|0|
-| 76572 | 0|2|0|0|
-| 76489 | 2|1|0|0|
-| 76736 | 2|2|2|0|
-| 82797 | 2|2|2|0|
-| 82282 | 0|2|0|0|
-| 82257 | 2|0|0|0|
-| 77401 | 2|0|0|0|
+| Numer albumu | Praca domowa 1 | Praca domowa 2 | Praca domowa 3 |Praca domowa 4 |Praca domowa 5 |
+| --- | --- | --- |--- |--- |--- |
+| 82058 | 0|2|0|0|0|
+| 82148 | 2|2|0|0|0|
+| 76572 | 0|2|0|0|0|
+| 76489 | 2|1|0|0|0|
+| 76736 | 2|2|2|2|0|
+| 82797 | 2|2|2|0|0|
+| 82282 | 0|2|0|0|0|
+| 82257 | 2|0|0|0|0|
+| 77401 | 2|0|0|0|0|
+| 76518 | 2|2|2|2|0|
+| 82725 | 2|1|0|0|0|
 
 ### Podręczniki
 
