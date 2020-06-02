@@ -1,4 +1,4 @@
-UPDATE: ZAJĘCIA W DNIU 22.05.2020 ODBĘDĄ SIĘ W FORMIE ZDALNEJ. ROZMOWA ODBĘDZIE SIĘ POPRZEZ APLIKACJĘ MICROSOFT TEAMS.
+UPDATE: ZAJĘCIA W DNIU 05.06.2020 ODBĘDĄ SIĘ W FORMIE ZDALNEJ. ROZMOWA ODBĘDZIE SIĘ POPRZEZ APLIKACJĘ MICROSOFT TEAMS.
 
 UPDATE: W ZWIĄZKU Z KONIECZNĄ ZMIANĄ METODY PROWADZENIA ZAJĘĆ, ZALICZENIE ĆWICZEŃ ZALEŻY OD ROZWIĄZANYCH PRAC DOMOWYCH.
 
@@ -34,7 +34,7 @@ Mój adres email: lopins@sgh.waw.pl
 | 17-04-20 | Metody optymalizacji funkcji jednej zmiennej 
 | 08-05-20 | Metody optymalizacji gradientowe
 | 22-05-20 | Metody optymalizacji wyższych rzędów
-| 05-06-20 | Zaliczenie ćwiczeń - kolokwium
+| 05-06-20 | Omówienie rozwiązań prac domowych
 
 ### Punkty za prace domowe
 
