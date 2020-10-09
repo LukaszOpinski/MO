@@ -11,6 +11,12 @@ Mój adres email: lopins@sgh.waw.pl
 | Data | Temat |
 | --- | --- |
 | 09-10-20 | Wprowadzenie do programowania w Pythonie
+| 23-10-20 | Optymalizacja analityczna. FOC i SOC dla optymalizacji bez ograniczeń, optymalizacji z ograniczeniami równościowymi (tw. Lagrange) oraz ograniczeniami nierównościowymi (warunki KKT). 
+| 06-11-20 | Metody optymalizacji funkcji jednej zmiennej (np. bracketing optimization, golden section-optimization).
+| 20-11-20 | Metody optymalizacji gradientowe optymalizacji: gradient descent, steepest descent.
+| 04-12-20 | Metody optymalizacji wyższych rzędów: Newton Descent.
+| 18-12-20 | Metoda symplex.
+| 15-01-21 | Kolokwium - zaliczenie ćwiczeń.
 
 ### Punkty za prace domowe
 Prace domowe można wysyłać w ciągu miesiąca od dnia zajęć, na mail lopins@sgh.waw.pl podając numer albumu
