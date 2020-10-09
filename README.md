@@ -16,7 +16,7 @@ Mój adres email: lopins@sgh.waw.pl
 | 20-11-20 | Metody optymalizacji gradientowe optymalizacji: gradient descent, steepest descent.
 | 04-12-20 | Metody optymalizacji wyższych rzędów: Newton Descent.
 | 18-12-20 | Metoda symplex.
-| 15-01-21 | Kolokwium - zaliczenie ćwiczeń.
+| 15-01-21 | Powtórzenie materiału.
 
 ### Punkty za prace domowe
 Prace domowe można wysyłać w ciągu miesiąca od dnia zajęć, na mail lopins@sgh.waw.pl podając numer albumu
