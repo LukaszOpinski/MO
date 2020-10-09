@@ -11,7 +11,7 @@ Mój adres email: lopins@sgh.waw.pl
 | Data | Temat |
 | --- | --- |
 | 09-10-20 | Wprowadzenie do programowania w Pythonie
-| 23-10-20 | Optymalizacja analityczna. FOC i SOC dla optymalizacji bez ograniczeń, tw. Lagrange i warunki KKT. 
+| 23-10-20 | Optymalizacja analityczna. FOC, SOC, tw. Lagrange'a, warunki KKT. 
 | 06-11-20 | Metody optymalizacji funkcji jednej zmiennej (np. bracketing optimization, golden section-optimization).
 | 20-11-20 | Metody optymalizacji gradientowe optymalizacji: gradient descent, steepest descent.
 | 04-12-20 | Metody optymalizacji wyższych rzędów: Newton Descent.
