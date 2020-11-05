@@ -27,7 +27,7 @@ Zaliczenie ćwiczeń jest niezbędne do bycia dopuszczonym do egzaminu w pierwsz
 | 0  | 5 | niezaliczone |
 | 6 | 10 | zaliczone |
 
-Grupa o 17:10
+
 | Numer albumu | Praca domowa 1 | Praca domowa 2 | Praca domowa 3 |Praca domowa 4 |Praca domowa 5 |
 | --- | --- | --- |--- |--- |--- |
 | 77116 | 0|0|0|0|0|
