@@ -13,7 +13,7 @@ Mój adres email: lopins@sgh.waw.pl
 | 09-10-20 | Wprowadzenie do programowania w Pythonie
 | 23-10-20 | Optymalizacja analityczna. FOC, SOC, tw. Lagrange'a, warunki KKT. 
 | 06-11-20 | Metody optymalizacji funkcji jednej zmiennej.
-| 20-11-20 | Metody optymalizacji gradientowe optymalizacji: gradient descent, steepest descent.
+| 20-11-20 | ZAJĘCIA ODWOŁANE
 | 04-12-20 | Metody optymalizacji wyższych rzędów: Newton Descent.
 | 18-12-20 | Metoda symplex.
 | 15-01-21 | Powtórzenie materiału.
