@@ -84,7 +84,7 @@ Zaliczenie ćwiczeń jest niezbędne do bycia dopuszczonym do egzaminu w pierwsz
 | 83119 | 1|2|2|0|0|
 | 83131 | 2|2|2|0|0|
 | 83177 | 2|1|2|0|0|
-| 83189 | 2|1|0|0|0|
+| 83189 | 2|1|2|0|0|
 | 84892 | 2|0|2|0|0|
 | 89525 | 2|1|2|0|0|
 
